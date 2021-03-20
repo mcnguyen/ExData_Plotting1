@@ -1,6 +1,6 @@
 
 # set working directory
-setwd("C:\\Users\\Minhtam\\Documents\\My Projects\\exdata-012")
+# setwd("C:\\Users\\Minhtam\\Documents\\My Projects\\exdata-012")
 
 # read data into memory
 data <- read.csv("household_power_consumption.txt", sep=";", na.strings="?" )
